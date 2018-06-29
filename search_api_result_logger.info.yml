@@ -1,0 +1,9 @@
+name: Search API Result logger
+type: module
+description: Logs results enabling a way to debug querys, backend configuration, etc...
+core: 8.x
+package: Search
+dependencies:
+  - search_api:search_api
+
+
